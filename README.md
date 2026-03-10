@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <!-- Languages -->
 <a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" width="25"/></a>
