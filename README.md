@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
 
 [![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
