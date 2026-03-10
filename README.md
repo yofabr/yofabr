@@ -1,9 +1,9 @@
+<div align="center">
 
-<div>
-
-[![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+<!-- Languages -->
+<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" width="25"/></a>
+<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" width="25"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="25"/></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="25"/></a>
 
 </div>
